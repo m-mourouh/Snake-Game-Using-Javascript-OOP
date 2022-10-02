@@ -1,5 +1,5 @@
 const canvas = document.querySelector('canvas') ;
-canvas.width = 800 ;
+canvas.width = 600 ;
 canvas.height = 400 ;
 let ctx = canvas.getContext('2d') ;
 let scale = 10 ;
